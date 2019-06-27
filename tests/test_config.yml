@@ -1,0 +1,6 @@
+host:
+  name: exp.data.com
+  ip: 34.3.12.2
+envs:
+  - five
+  - six
